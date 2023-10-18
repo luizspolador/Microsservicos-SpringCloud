@@ -28,3 +28,5 @@ docker logs -f nome-img-do-banco (EXEMPLO: hr-user-pg12)
 
 - Pausar uma instância de um container:
 docker stop id-do-container
+
+Para todas as requisições, foi utilizado o software <b>Postman</b>
